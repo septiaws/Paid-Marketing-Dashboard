@@ -20,3 +20,6 @@ Setelah melakukan paid search campaign selama 5 bulan. Manajer marketing ingin m
 
 ## Hasil Analisa
 [Medium](https://medium.com/@septiawulandaris11/business-analytics-paid-search-marketing-dashboard-fbc461a1a4fb)
+
+## Visualisasi Dashboard
+[Tableau](https://public.tableau.com/app/profile/septia.wulandari.suarka/viz/PaidSearchMarketingDashboard/Dashboard1)
